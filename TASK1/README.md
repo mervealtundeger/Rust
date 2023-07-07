@@ -3,7 +3,7 @@
 <br>
 <h3><i>RUST</i></h3>
 <div align="center">
-<img src="https://github.com/mervealtundeger/Rust/blob/main/RUST.PNG" width="1000"><br>
+<img src="https://github.com/mervealtundeger/Rust/blob/main/TASK1/RUST.PNG" width="1000"><br>
 </div>
 
 
