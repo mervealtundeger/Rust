@@ -1,9 +1,9 @@
 # Rust
 
 <br>
-<h3><i>MAIN KOD BLOGU</i></h3>
+<h3><i>RUST</i></h3>
 <div align="center">
-<img src="https://github.com/mervealtundeger/Rust/RUST.PNG](https://github.com/mervealtundeger/Rust/blob/main/RUST.PNG" width="1000"><br>
+<img src="https://github.com/mervealtundeger/Rust/blob/main/RUST.PNG" width="1000"><br>
 </div>
 
 
