@@ -1,5 +1,11 @@
 # Rust
 
+<br>
+<h3><i>MAIN KOD BLOGU</i></h3>
+<div align="center">
+<img src="https://github.com/mervealtundeger/Rust/RUST.PNG" width="1000"><br>
+</div>
+
 
 Create a simple calculator using enums and pattern matching
 
